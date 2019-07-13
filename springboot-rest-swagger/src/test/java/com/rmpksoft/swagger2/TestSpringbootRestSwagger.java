@@ -1,4 +1,4 @@
-package junit.integration;
+package com.rmpksoft.swagger2;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
